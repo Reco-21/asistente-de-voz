@@ -15,14 +15,14 @@ from sistema.proyectos import abrir_proyecto
 
 def modo_trabajo(hablar, escuchar):
 
-    MAX_INTENTOS = 3
+    MAX_INTENTOS = 2
 
     for intento in range(MAX_INTENTOS):
 
         hablar("¿Qué proyecto quieres abrir?")
 
         # Espera para que termine de hablar
-        time.sleep(1)
+        time.sleep(0.75)
 
         proyecto = escuchar.escuchar()
 
