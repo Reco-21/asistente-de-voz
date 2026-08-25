@@ -1,9 +1,4 @@
-"""
-===========================================
-NOMBRE POR DECIDIR Asistente de voz
-Archivo principal
-===========================================
-"""
+
 from config import ASSISTANT_NAME
 from audio.hablar import hablar
 from audio.escuchar import Escuchador

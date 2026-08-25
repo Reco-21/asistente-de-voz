@@ -1,9 +1,4 @@
-"""
-===========================================
-GRASSHOPPER AI
-Modos de Grasshopper
-===========================================
-"""
+
 import time
 from sistema.proyectos import abrir_proyecto
 

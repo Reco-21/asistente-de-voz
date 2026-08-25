@@ -1,9 +1,3 @@
-"""
-===========================================
-GRASSHOPPER AI
-Gestor de proyectos
-===========================================
-"""
 
 import os
 import subprocess

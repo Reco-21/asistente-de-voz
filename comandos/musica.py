@@ -1,10 +1,5 @@
 
-"""
-===========================================
-GRASSHOPPER AI
-Comandos de música
-===========================================
-"""
+
 from config import YOUTUBE_MUSIC_LOAD_TIME, YOUTUBE_MUSIC_TABS
 import time
 import urllib.parse

@@ -1,20 +1,11 @@
 
-"""
-===========================================
-GRASSHOPPER AI
-Sistema para abrir aplicaciones
-===========================================
-"""
-
 import subprocess
 import webbrowser
 import os
 
-# ====================================================
-# CONFIGURA AQUÍ LAS RUTAS DE TUS PROGRAMAS
-# ====================================================
 
-# Cambia TU_USUARIO por tu nombre de usuario de Windows
+# Rutas de los programas
+
 VSCODE = r"C:\Users\gesu2\AppData\Local\Programs\Microsoft VS Code\Code.exe"
 
 # PowerShell
@@ -23,9 +14,10 @@ POWERSHELL = "powershell"
 def abrir_terminal():
 
     subprocess.Popen("powershell")
-# ====================================================
+
+
 # PÁGINAS WEB
-# ====================================================
+
 
 CHATGPT = "https://chatgpt.com"
 
@@ -38,9 +30,9 @@ YOUTUBE_MUSIC = "https://music.youtube.com"
 GITHUB = "https://github.com"
 
 
-# ====================================================
+
 # FUNCIONES
-# ====================================================
+
 
 def abrir_vscode():
 

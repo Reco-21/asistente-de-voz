@@ -1,9 +1,3 @@
-"""
-===========================================
-GRASSHOPPER AI
-Capturas de pantalla
-===========================================
-"""
 
 import os
 from datetime import datetime

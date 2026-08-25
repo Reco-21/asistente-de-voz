@@ -1,11 +1,4 @@
 
-"""
-===========================================
-GRASSHOPPER AI
-Módulo de voz
-===========================================
-"""
-
 import asyncio
 import edge_tts
 import pygame

@@ -1,11 +1,4 @@
 
-"""
-===========================================
-GRASSHOPPER AI
-Lista de proyectos
-===========================================
-"""
-
 PROYECTOS = {
 
     "asistente": r"C:\Users\gesu2\Desktop\codigo-asier\asistente de voz",

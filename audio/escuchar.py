@@ -1,11 +1,4 @@
 
-"""
-===========================================
-GRASSHOPPER AI
-Módulo de reconocimiento de voz
-===========================================
-"""
-
 import speech_recognition as sr
 
 from config import (

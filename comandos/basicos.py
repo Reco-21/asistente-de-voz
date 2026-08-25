@@ -1,9 +1,3 @@
-"""
-===========================================
-GRASSHOPPER AI
-Comandos básicos
-===========================================
-"""
 
 from datetime import datetime
 from config import ASSISTANT_NAME

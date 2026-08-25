@@ -1,9 +1,3 @@
-"""
-===========================================
-GRASSHOPPER AI
-Organizador de ventanas
-===========================================
-"""
 
 import time
 import ctypes
